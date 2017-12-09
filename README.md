@@ -1,7 +1,23 @@
 # inverse6
 Modelling of earthquake slip by inversion of GPS and InSAR data assuming homogenous elastic medium
+
+
+
+## Sections
+
+* [Objectives](#objectives)
+
 This programme is an update of inverse3.f that was not able to ingest InSAR LOS (line of sight) observations
 The associated files relate to the 2017 Kos earthquake
+
+
+### <a name="installation"></a>Installation
+
+The shells are developed for Linux bash. In general they are calling open sources programmes only.
+The programme trcroor is available elsewhere, see http://pb.iterre.fr
+
+
+* [Overview](#overview)
 
 Using inverse6
 1. Compile the programme (with gfortran or f77). Nota: the dimensions can be modified to fit with a given case
@@ -20,5 +36,23 @@ Using direct4a (this code produces a synthetic interferogram)
     kosa.grd (for ascending), kosd.grd (for descending)
 3. The programme asks for the name of a output image file: you can put 'out.raw'. This output file will be in .raw binaty format
   (1 bype per pixel)
+
+
+### <a name="authors"></a>Authors
+
+* Pierre Briole (briole@ens.fr)
+
+### <a name="references"></a>References
+
+*  recplot.plt and skyplot.plt used in auto_gd2p_amb_new3 are modified versions of https://github.com/OSGeoLabBp/qcplot
+
+### <a name="license"></a>License
+
+Copyright 2017 Pierre Briole - CNRS/ENS
+
+Licensed under the GPL v3.0
+
+
+
  
  
