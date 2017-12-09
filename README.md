@@ -43,7 +43,7 @@ Using direct4a (this code produces a synthetic interferogram)
 
 ### <a name="references"></a>References
 
-*  Okada 1985 for the inversion, Briole et al., 1986 for the initial version of the software https://www.scopus.com/record/display.uri?eid=2-s2.0-0022879463&origin=inward&txGid=23cc1f7dfe0c13e5a489090f02957406
+*  Okada 1985 for the model, Tarantola and Valette 1982 for the inversion, Briole et al., 1986 for the initial version of the software https://www.scopus.com/record/display.uri?eid=2-s2.0-0022879463&origin=inward&txGid=23cc1f7dfe0c13e5a489090f02957406
 
 
 ### <a name="license"></a>License
