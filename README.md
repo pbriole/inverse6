@@ -1,5 +1,6 @@
 # inverse6
 Modelling of earthquake slip by inversion of GPS and InSAR data assuming homogenous elastic medium
+<a href="https://doi.org/10.5281/zenodo.1098391"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1098391.svg" alt="DOI"></a>
 
 
 
