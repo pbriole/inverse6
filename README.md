@@ -16,7 +16,8 @@ The shells are developed for Linux bash. In general they are calling open source
 The programme trcroor is available elsewhere, see http://pb.iterre.fr
 
 
-* [Overview](#overview)
+
+### <a name="Usage"></a>Usage
 
 Using inverse6
 1. Compile the programme (with gfortran or f77). Nota: the dimensions can be modified to fit with a given case
@@ -41,9 +42,11 @@ Using direct4a (this code produces a synthetic interferogram)
 
 * Pierre Briole (briole@ens.fr)
 
+
 ### <a name="references"></a>References
 
-*  recplot.plt and skyplot.plt used in auto_gd2p_amb_new3 are modified versions of https://github.com/OSGeoLabBp/qcplot
+*  Okada 1985 for the inversion
+
 
 ### <a name="license"></a>License
 
