@@ -6,8 +6,9 @@ C     PIERRE BRIOLE
 C     30/8/87
 C     Sur sun le 11 Mars 1992
 C     15/3/14
+c     last check december 9, 2017
 C     INVERSE6: "The dirty one" (mixing ascending and descending data), 
-C     line 697 the number of ascending pickings
+C     line 697-699-701 the number of vertical ascending and descending data
 
 C ------------------------------------------------
 C     CE PROGRAMME UTILISE LES VARIABLES SUIVANTES
