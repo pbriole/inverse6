@@ -7,14 +7,12 @@ Modelling of earthquake slip by inversion of GPS and InSAR data assuming homogen
 ### <a name="Objectives"></a>Objectives
 
 This programme is an update of inverse3.f that was not able to ingest InSAR LOS (line of sight) observations
-The associated files relate to the 2017 Kos earthquake
+The associated files relate to the 2017 Kos earthquake (see https://www.emsc-csem.org/Files/event/606346/Kos_report_30-7-2017.pdf)
 
 
 ### <a name="installation"></a>Installation
 
-The shells are developed for Linux bash. In general they are calling open sources programmes only.
-The programme trcroor is available elsewhere, see http://pb.iterre.fr
-
+The programmes are in Fortran 77. 
 
 
 ### <a name="Usage"></a>Usage
@@ -45,7 +43,7 @@ Using direct4a (this code produces a synthetic interferogram)
 
 ### <a name="references"></a>References
 
-*  Okada 1985 for the inversion
+*  Okada 1985 for the inversion, Briole et al., 1986 for the initial version of the software https://www.scopus.com/record/display.uri?eid=2-s2.0-0022879463&origin=inward&txGid=23cc1f7dfe0c13e5a489090f02957406
 
 
 ### <a name="license"></a>License
@@ -53,8 +51,3 @@ Using direct4a (this code produces a synthetic interferogram)
 Copyright 2017 Pierre Briole - CNRS/ENS
 
 Licensed under the GPL v3.0
-
-
-
- 
- 
