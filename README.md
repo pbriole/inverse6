@@ -3,8 +3,6 @@ Modelling of earthquake slip by inversion of GPS and InSAR data assuming homogen
 
 
 
-## Sections
-
 * [Objectives](#objectives)
 
 This programme is an update of inverse3.f that was not able to ingest InSAR LOS (line of sight) observations
